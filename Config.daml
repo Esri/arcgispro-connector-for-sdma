@@ -23,7 +23,7 @@ permissions and limitations under the License.
 		<Image>Images\AddinDesktop32.png</Image>
 		<Author>Esri</Author>
 		<Company>Esri, https://www.esri.com</Company>
-		<Date>12/1/2025</Date>
+		<Date>11/21/2025</Date>
 		<Subject>Content</Subject>
 	</AddInInfo>
 	<modules>
