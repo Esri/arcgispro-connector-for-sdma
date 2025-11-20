@@ -49,3 +49,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Image preview only (no PDF preview in viewer)
 - Requires SDMA Portal and CLI installations
 - Windows only (ArcGIS Pro limitation)
+
+[1.0.0]: https://github.com/ArcGIS/arcgispro-connector-for-sdma/compare/v1.0.0...v1.0.0
