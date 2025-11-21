@@ -163,7 +163,9 @@ There are multiple ways to download SDMA files to your local machine:
 
 ## 🏗️ Architecture
 
-![SDMA Pro Architecture](./docs/SDMA_Pro_Architecture.png)
+<p align="center">
+  <img src="./docs/SDMA_Pro_Architecture.png" alt="SDMA Pro Architecture" />
+</p>
 
 ### Project Structure
 
