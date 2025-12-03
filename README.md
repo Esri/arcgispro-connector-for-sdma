@@ -4,7 +4,7 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-SdmaConnector is a powerful ArcGIS Pro add-in that provides seamless integration with Spatial Data Management on AWS (SDMA), a cloud-based geospatial data management platform. The add-in enables GIS professionals to browse, explore, manage, and reference SDMA projects, assets, and files directly from within ArcGIS Pro.
+SdmaConnector is a powerful ArcGIS Pro add-in that provides seamless integration with [Spatial Data Management on AWS](https://aws.amazon.com/solutions/implementations/spatial-data-management-on-aws/) (SDMA), a cloud-based geospatial data management platform. The add-in enables GIS professionals to browse, explore, manage, and reference SDMA projects, assets, and files directly from within ArcGIS Pro.
 
 ![SDMA Introduction](./docs/sdma_intro.gif)
 
